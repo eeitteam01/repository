@@ -38,7 +38,9 @@
                     <source>${java-version}</source>
                     <target>${java-version}</target>
                 </configuration>
+
             </plugin>
+
             <plugin>
                 <groupId>org.apache.tomcat.maven</groupId>
                 <artifactId>tomcat7-maven-plugin</artifactId>
