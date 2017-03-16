@@ -15,5 +15,6 @@
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <hr>
 <h6>third commit</h6>
+<hr>
 </body>
 </html>
