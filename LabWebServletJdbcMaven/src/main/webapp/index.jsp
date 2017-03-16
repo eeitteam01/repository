@@ -13,17 +13,11 @@
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
-<<<<<<< HEAD
-<<<<<<< HEAD
-22222
-333
-=======
-<hr>
+
 <h6>third commit</h6>
 <h6>test commit</h6>
 <hr>
---->from 崔 
-=======
+
 <h1>test commit 2</h1>
 <h6>test commit 3</h6>
 <h2>test commit 4</h2>
@@ -38,6 +32,9 @@
 <h2>現在我正在多重測試喔!!!!</h2><h2>現在我正在多重測試喔!!!!</h2>
 <h2>現在我正在多重測試喔!!!!</h2><h2>現在我正在多重測試喔!!!!</h2><h2>現在我正在多重測試喔!!!!</h2>
 =======
+=======
+
 one ooooooooooookkkkkkkkkkkkkkkkk
+
 </body>
 </html>
